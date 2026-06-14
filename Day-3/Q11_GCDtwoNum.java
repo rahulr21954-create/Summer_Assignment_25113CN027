@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Q11_GCDtwoNum {
@@ -15,3 +16,4 @@ public class Q11_GCDtwoNum {
         System.out.printf("GCD of %d and %d = %d",m,n,gcd);
     }
 }
+

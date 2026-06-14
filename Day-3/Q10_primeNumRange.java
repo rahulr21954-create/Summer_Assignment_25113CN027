@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class Q10_primeNumRange {
@@ -23,3 +24,4 @@ public class Q10_primeNumRange {
 
     }
 }
+

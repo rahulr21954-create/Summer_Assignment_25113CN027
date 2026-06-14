@@ -1,4 +1,5 @@
-import java.util.Scanner;
+
+import java.util.*;
 
 public class Q9_primeNum{
     public static void main(String[] args) {
@@ -19,4 +20,5 @@ public class Q9_primeNum{
          System.out.printf("%d is prime number",n);
        }
     }
+
 }
